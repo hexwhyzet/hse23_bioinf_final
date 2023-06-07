@@ -19,5 +19,13 @@ ERα enhancer function. Oncogene. 2018 Aug;37(34):4692-4710. doi: 10.1038/s41388
 ![table2.png](images%2Ftable2.png)
 Таблички с -log(Evalue):
 ![table.png](images%2Ftable.png)
-Тепловая карта созданная по табличке -log(E-value):
+Тепловая карта созданная по табличке -log(E-value), 300 - потолок:
 ![hitmap.png](images%2Fhitmap.png)
+
+Видим что во всех многоклеточных >100, но странно что в черве не 300, так как drosophila и c.elegans отделились вместе от остальных многоклеточных.
+
+Ищем белок гомолог, мышь нам подходит так как E-value < 1e10
+![homologue2.png](images%2Fhomologue2.png)
+
+![homologue.png](images%2Fhomologue.png)
+Это KMT2D, по названию видно что это паралог, а значит гомолог
