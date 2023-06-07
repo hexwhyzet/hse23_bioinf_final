@@ -1,0 +1,10 @@
+# BLASTP 2.9.0+
+# Query: ENST00000262189.11 (KMT2C) length=4911
+# Database: /content/data/proteomes/tuberculosis.faa
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+ENST00000262189.11	NP_216051.1	50.000	36	15	1	4409	4444	46	78	0.28	31.2
+ENST00000262189.11	NP_217694.1	31.250	64	41	2	4206	4267	3	65	0.46	31.6
+ENST00000262189.11	NP_217438.2	25.581	129	87	3	3152	3271	301	429	2.9	30.8
+ENST00000262189.11	NP_216198.1	25.362	138	88	3	1664	1786	82	219	7.0	29.3
+# BLAST processed 1 queries
