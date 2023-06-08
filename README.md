@@ -28,4 +28,4 @@ ERα enhancer function. Oncogene. 2018 Aug;37(34):4692-4710. doi: 10.1038/s41388
 ![homologue2.png](images%2Fhomologue2.png)
 
 ![homologue.png](images%2Fhomologue.png)
-Это KMT2D, по названию видно что это паралог, а значит гомолог
+Это trithorax-related, isoform D. Он отлчается по длине в 2 раза, но в статье https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4176006/ утверждается что это гомолог.
